@@ -1,0 +1,34 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px
+}
+.style2 {
+  font-family: BalsamiqSans,serif;
+  font-size: 2em;
+  margin-left: 339px;
+  margin-top: 181px;
+  height: 57px
+}
+.style0 {
+  background-color: #fff;
+  border-left: 3px solid #000;
+  border-right: 3px solid #000;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-shadow: 8px 8px 0 0 #000;
+  display: flex;
+  margin-left: 818px;
+  margin-top: 401px;
+  width: 203px;
+  height: 73px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style1 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: 2em;
+  height: 35px
+}
